@@ -2,6 +2,7 @@
 I provide the program code and cable schematic as well as additional display units with micropython code
 
 based on : <a href="https://github.com/ayoy/upython-aq-monitor">Dominik Kapusta</a> and <a href="https://github.com/2black0/micropython-sht11">seto_ardy</a>
+and thanks to Wahyu Ansari for help me create code 
 
 ### How to Use
 ```python
