@@ -27,7 +27,7 @@ while True:
     lcd.clear()
 ```
 
-
+<img href="https://github.com/mjmokhtar/rasp-pi-pico-SHT11-LCD/blob/main/schematic.png" alt="schematic"/>
 
 
 
