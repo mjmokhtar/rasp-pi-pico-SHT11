@@ -28,6 +28,6 @@ while True:
 ```
 !Skematic](schematic.png?raw=true "Schematic")
 <img href="https://github.com/mjmokhtar/rasp-pi-pico-SHT11-LCD/blob/main/schematic.png" alt="schematic"/>
-
+![Screenshot](schematic.png)
 
 
